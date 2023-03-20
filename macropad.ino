@@ -77,7 +77,7 @@ void setup() {
   attachInterrupt(digitalPinToInterrupt(3), checkPosition, CHANGE);
 
   //--------//
-
+}
 
 void loop() {
 
